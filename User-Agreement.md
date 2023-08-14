@@ -18,7 +18,7 @@ Durch die Verwendung des Kuchen Global Chat Discord-Bots stimmst du den folgende
 
 8. Du darfst den Kuchen Global Chat Discord-Bot nicht in einer Weise verwenden, die gegen die Discord-Nutzungsbedingungen oder andere geltende Gesetze verstößt.
 
-9. Wir behalten uns das Recht vor, den Zugriff auf den Kuchen Global Chat Discord-Bot für Server zu sperren, die gegen diese Nutzungsbedingungen verstoßen oder keine Zustimmung für die Freischaltung erhalten haben.
+9. Wir behalten uns das Recht vor, den Zugriff auf den Kuchen Global Chat Discord-Bot für Server zu sperren, die gegen diese Nutzungsbedingungen verstoßen.
 
 10. Diese Nutzungsbedingungen können jederzeit aktualisiert werden. Es liegt in deiner Verantwortung, regelmäßig nach Aktualisierungen zu suchen.
 
